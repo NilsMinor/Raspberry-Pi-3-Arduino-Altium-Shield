@@ -4,7 +4,7 @@ This project serves as template for an altium raspberry pi and/or arduino projec
 
 However I can not ensure the correctness of the design, since it was not produced in the moment (but will be built in the future). Use it as it is without any guarantee. If you find a mistake please let me know it :)
 
-For more informations : http://nilsminor.de/index.php/2018/03/04/altium-template-for-a-combined-arduino-and-raspberry-pi-shield/?preview_id=440&preview_nonce=e723d15104&post_format=standard&_thumbnail_id=441&preview=true
+For more informations : http://nilsminor.de/index.php/2018/03/04/altium-template-for-a-combined-arduino-and-raspberry-pi-shield/
 
 ### Image of Altiums 3D view
 

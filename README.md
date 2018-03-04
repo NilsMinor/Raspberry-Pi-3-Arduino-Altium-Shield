@@ -4,15 +4,15 @@ This project serves as template for an altium raspberry pi and/or arduino projec
 
 However I can not ensure the correctness of the design, since it was not produced in the moment (but will be built in the future). Use it as it is without any guarantee. If you find a mistake please let me know it :)
 
-Image of Altiums 3D view
+### Image of Altiums 3D view
 
 ![Alt text](images/3D.png?raw=true "PCB in 3D view")
 
-Image of the main schematic sheet as starting point for future projects
+### Image of the main schematic sheet as starting point for future projects
 
 ![Alt text](images/shematic.png?raw=true "main schematic")
 
-Dimensions and isometric view
+### Dimensions and isometric view
 
 ![Alt text](images/drawing.png?raw=true "draftsman dimensioning")
 
